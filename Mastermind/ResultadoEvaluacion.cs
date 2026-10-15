@@ -1,3 +1,6 @@
 namespace Mastermind;
 
-public sealed record ResultadoEvaluacion(int BienPosicionados, int ColorCorrecto);
+public sealed record ResultadoEvaluacion(
+    int BienPosicionados,
+    int ColorCorrecto,
+    ResultadoCheat? Cheat = null);

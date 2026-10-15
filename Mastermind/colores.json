@@ -1,0 +1,11 @@
+[
+  { "nombre": "Yellow", "codigo": "1" },
+  { "nombre": "Cyan", "codigo": "C" },
+  { "nombre": "Black", "codigo": "K" },
+  { "nombre": "Purple", "codigo": "P" },
+  { "nombre": "White", "codigo": "W" },
+  { "nombre": "Pink", "codigo": "I" },
+  { "nombre": "Red", "codigo": "R" },
+  { "nombre": "Brown", "codigo": "B" },
+  { "nombre": "Green", "codigo": "N" }
+]
